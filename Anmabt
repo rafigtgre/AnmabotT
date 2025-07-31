@@ -1,0 +1,7 @@
+anime-bot/
+├── data/
+│   └── sources.json
+├── main.py
+├── requirements.txt
+├── README.md
+└── .gitignore
