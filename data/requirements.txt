@@ -1,3 +1,0 @@
-# Add any required packages here, e.g.:
-requests
-python-telegram-bot==20.3
